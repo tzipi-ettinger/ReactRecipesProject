@@ -33,6 +33,7 @@ const AppBar = () => {
             <Link to={'/RecipeList'} style={linkStyle}>רשימת מתכונים</Link>
             <Link to={'/AddRecipe'} style={linkStyle}>הוספת מתכון</Link>
             <Link to={'/Login'} style={linkStyle}>התחברות</Link>
+            <Link to={'/FavoriteList'} style={linkStyle}>מתכונים מועדפים</Link>
         </nav>
     )
 }

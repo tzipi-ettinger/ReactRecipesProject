@@ -74,8 +74,8 @@ const AddRecipe = () => {
                         </select>
                     </div>
                     {/* מועדפים */}
-                    <p>מתכון מועדף</p>
-                    <input type="checkbox" placeholder="מועדף (true/false)" value={favorite} onChange={(e) => setFavorite(e.target.value)} />
+                    {/* <p>מתכון מועדף</p>
+                    <input type="checkbox" placeholder="מועדף (true/false)" value={favorite} onChange={(e) => setFavorite(e.target.value)} /> */}
                     {/* הוספת רכיב */}
                     <div style={{ border: '1px solid #eee', padding: '10px', borderRadius: '5px' }}>
                         <div style={{ display: 'flex', gap: '5px' }}>

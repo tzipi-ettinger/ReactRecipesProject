@@ -6,6 +6,7 @@ import RecipeList from './components/RecipeList'
 import RecipeDetails from './components/RecipeDetails';
 import Login from './components/Login'
 import AddRecipe from './components/AddRecipe'
+import FavoriteList from './components/FavoriteList'
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Route path='/RecipeDetails/:id'element={<RecipeDetails/>}/>
       <Route path='/Login'element={<Login/>}/>
       <Route path='/AddRecipe'element={<AddRecipe/>}/>
+      <Route path='/FavoriteList'element={<FavoriteList/>}/>
     </Routes>
     </>
   );
