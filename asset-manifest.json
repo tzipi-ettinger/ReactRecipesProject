@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactRecipesProject/static/css/main.f855e6bc.css",
+    "main.js": "/ReactRecipesProject/static/js/main.e9dac0f3.js",
+    "static/js/453.ff391cd7.chunk.js": "/ReactRecipesProject/static/js/453.ff391cd7.chunk.js",
+    "static/media/אוכל.jpg": "/ReactRecipesProject/static/media/אוכל.a961ef6b93a322fe5a5f.jpg",
+    "index.html": "/ReactRecipesProject/index.html",
+    "main.f855e6bc.css.map": "/ReactRecipesProject/static/css/main.f855e6bc.css.map",
+    "main.e9dac0f3.js.map": "/ReactRecipesProject/static/js/main.e9dac0f3.js.map",
+    "453.ff391cd7.chunk.js.map": "/ReactRecipesProject/static/js/453.ff391cd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e9dac0f3.js"
+  ]
+}
